@@ -34,7 +34,7 @@ public class Kicsiberobbanabonba {
 		int szam2 = input.nextInt() ;
 		
 	System.out.println("A 2 szám felszíne: "+pee* pee* szam1 * szam2+"cm2");
-	System.out.println("A 2 szám térfogata: "+(2*pee* pee)*szam1+(2*pee)*szam1*szam2+"cm3");ű       
+	System.out.println("A 2 szám térfogata: "+(2*pee* pee)*szam1+(2*pee)*szam1*szam2+"cm3");      
     }
 } 
 
