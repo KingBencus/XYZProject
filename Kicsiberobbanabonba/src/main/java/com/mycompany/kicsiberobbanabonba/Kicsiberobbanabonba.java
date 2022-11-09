@@ -17,7 +17,7 @@ public class Kicsiberobbanabonba {
 	    
 	    
 	    
-        System.out.print("Adj meg egy felszínt: ");
+        System.out.print("\nAdj meg egy felszínt: ");
        		Scanner beker = new Scanner(System.in);
        		int sugar = beker.nextInt();
         	System.out.print("Adj meg egy magasságot: ");
@@ -27,7 +27,7 @@ public class Kicsiberobbanabonba {
         double pee;
 	pee = 3.14;
 	
-	System.out.print("Adjon meg egy szamot!: ");
+	System.out.print("\nAdjon meg egy szamot!: ");
 		Scanner input = new Scanner(System.in);
 		int szam1 = input.nextInt() ;
 		System.out.print("Adjon meg még egy szamot!: ");
